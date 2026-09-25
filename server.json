@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/semrush",
   "title": "Semrush",
   "description": "Semrush MCP Pack — SEO analytics via the Semrush Analytics API.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/semrush",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-semrush",
