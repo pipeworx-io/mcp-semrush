@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-semrush",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Semrush MCP Pack — SEO analytics via the Semrush Analytics API.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "semrush",
     "gatewaySlug": "semrush",
-    "sourceHash": "v1-841127267eb4836cc604ce51c73a91f8d13ae30da8960fa70033bed39cd5a259",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-bed04b973423ca843d16ef9b2f1527e1129cc450b97a24a9444d2b12dfd12222",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
